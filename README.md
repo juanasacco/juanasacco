@@ -1,5 +1,44 @@
-## Hi there 👋
+# Hi there! I'm Juana Sacco!
+## About me✨
 
+🎓 Currently studying Data Science at Universidad Austral
+
+👯 I’m looking to collaborate on future projects
+
+💬 Ask me about cats, IA, music and history.
+
+<details>
+  <summary>Digital abilities 🧑🏽‍💻</summary>
+  
+  - Canva
+  - Google Workspace
+  - Google Collab
+  - Microsoft 365
+
+  
+</details>
+
+<details>
+  <summary>Programming languages 🧮</summary>
+  
+  - R
+  - Python
+  
+</details>
+
+<details>
+  <summary>Languages I speak 🌎</summary>
+  
+  - Spanish (Native)
+  - English (B2)
+  
+  
+</details>
+
+
+
+<!--
+**pazsevilla/pazsevilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <!--
 **juanasacco/juanasacco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
