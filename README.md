@@ -1,11 +1,11 @@
 # Hi there! I'm Juana Sacco!
 ## About me✨
 
-🎓 Currently studying Data Science at Universidad Austral
+🎓 Currently studying Data Science at <a href="https://www.austral.edu.ar/">Universidad Austral</a>.
 
 👯 I’m looking to collaborate on future projects
 
-💬 Ask me about cats, IA, music and history.
+💬 Ask me about cats, IA, music and philosophy.
 
 <details>
   <summary>Digital abilities 🧑🏽‍💻</summary>
